@@ -10,7 +10,7 @@ I actively participate in public smart contract audit contests, specializing in 
 
 - X(Twitter): [@owanemi_](https://x.com/owanemi_)
 - Telegram: [@owanemiii](https://t.me/owanemiii)
-- Email: [owanemi1741@gmail.com](owanemi1741@gmail.com)
+- Email: [owanemi1741@gmail.com](mailto:owanemi1741@gmail.com)
 - Discord: owanemi
 
 # Audit Summary - Nemi
