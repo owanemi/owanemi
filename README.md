@@ -18,5 +18,5 @@ I actively participate in public smart contract audit contests, specializing in 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> Cyfrin CodeHawks Contests
 |                                   Contest                                    | High risk | Medium risk | Low risk |                                                 Security Report                                                 | Ranking | Team Name |
 | :--------------------------------------------------------------------------: | :-------: | :---------: | :------: | :-------------------------------------------------------------------------------------------------------------: | :-----: | --------- |
+| [Aave Diva Wrapper](https://codehawks.cyfrin.io/c/2025-01-diva) |     0     |      0      |    1     |   [Report](https://codehawks.cyfrin.io/c/2025-01-diva/s/160)    |    9th    |           |
 | [Christmas Dinner](https://codehawks.cyfrin.io/c/2024-12-christmas-dinner) |     2     |      1      |    1     |   [Report](https://github.com/owanemi/2024-12-christmas-dinner/blob/audit-data/audit-data/findings.md)    |    30th    |           |
-| [AaveDivaWrapper](https://codehawks.cyfrin.io/c/2025-01-diva) |     0     |      0      |    1     |   [Report](https://codehawks.cyfrin.io/c/2025-01-diva/s/160)    |    9th    |           |
